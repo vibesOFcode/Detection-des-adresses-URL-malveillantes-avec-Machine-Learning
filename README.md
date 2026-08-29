@@ -37,7 +37,7 @@ Les caractéristiques couvrent notamment :
 
 ### Variable cible
 
-```text
+
 label = 0 → URL légitime
 label = 1 → URL malveillante
 
