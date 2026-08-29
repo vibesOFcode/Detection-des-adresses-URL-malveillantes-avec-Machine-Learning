@@ -41,7 +41,8 @@ Les caractéristiques couvrent notamment :
 label = 0 → URL légitime
 label = 1 → URL malveillante
 
-##  Approche méthodologique
+
+###  Approche méthodologique
 
 L'approche adoptée repose sur une chaîne de traitement permettant de transformer les caractéristiques des URLs en modèles de classification capables de distinguer les URLs légitimes des URLs malveillantes.
 
